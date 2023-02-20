@@ -4,3 +4,4 @@
 
 📌Mobilenetv2 model
 📌Trainned using mask and without mask face images
+📌99% accuracy😍😍
