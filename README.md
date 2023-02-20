@@ -1,2 +1,6 @@
-# Mask-No-Mask-binary-Classification
-Binary classification Model using Mobilenetv2
+🐱‍🏍✨Mask No Mask Image Classification✨🐱‍🏍
+
+🐍Python Project🐍
+
+📌Mobilenetv2 model
+📌Trainned using mask and without mask face images
